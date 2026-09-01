@@ -1,0 +1,112 @@
+[
+  {
+    "brand": "Apple",
+    "model": "iPhone 17",
+    "price": 79999,
+    "storage": "128GB",
+    "ram": "8GB",
+    "display": "6.3-inch OLED",
+    "battery": "3600mAh",
+    "camera": "48MP + 48MP",
+    "os": "iOS 26"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S26",
+    "price": 74999,
+    "storage": "256GB",
+    "ram": "12GB",
+    "display": "6.2-inch AMOLED",
+    "battery": "4000mAh",
+    "camera": "50MP + 12MP + 10MP",
+    "os": "Android 16"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "OnePlus 14",
+    "price": 69999,
+    "storage": "256GB",
+    "ram": "12GB",
+    "display": "6.7-inch AMOLED",
+    "battery": "5500mAh",
+    "camera": "50MP + 50MP + 8MP",
+    "os": "Android 16"
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 10",
+    "price": 69999,
+    "storage": "128GB",
+    "ram": "12GB",
+    "display": "6.3-inch OLED",
+    "battery": "4700mAh",
+    "camera": "50MP + 48MP",
+    "os": "Android 16"
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi 16",
+    "price": 54999,
+    "storage": "256GB",
+    "ram": "12GB",
+    "display": "6.5-inch AMOLED",
+    "battery": "5200mAh",
+    "camera": "50MP + 50MP + 50MP",
+    "os": "Android 16"
+  },
+  {
+    "brand": "Nothing",
+    "model": "Phone (4)",
+    "price": 49999,
+    "storage": "256GB",
+    "ram": "12GB",
+    "display": "6.7-inch OLED",
+    "battery": "5000mAh",
+    "camera": "50MP + 50MP",
+    "os": "Android 16"
+  },
+  {
+    "brand": "Motorola",
+    "model": "Edge 70 Pro",
+    "price": 44999,
+    "storage": "256GB",
+    "ram": "12GB",
+    "display": "6.7-inch pOLED",
+    "battery": "5000mAh",
+    "camera": "50MP + 50MP + 10MP",
+    "os": "Android 16"
+  },
+  {
+    "brand": "Vivo",
+    "model": "V60 Pro",
+    "price": 42999,
+    "storage": "256GB",
+    "ram": "12GB",
+    "display": "6.6-inch AMOLED",
+    "battery": "6000mAh",
+    "camera": "50MP + 50MP + 8MP",
+    "os": "Android 16"
+  },
+  {
+    "brand": "Realme",
+    "model": "GT 8 Pro",
+    "price": 39999,
+    "storage": "256GB",
+    "ram": "12GB",
+    "display": "6.7-inch AMOLED",
+    "battery": "5500mAh",
+    "camera": "50MP + 50MP + 8MP",
+    "os": "Android 16"
+  },
+  {
+    "brand": "Redmi",
+    "model": "Note 15 Pro",
+    "price": 29999,
+    "storage": "256GB",
+    "ram": "8GB",
+    "display": "6.7-inch AMOLED",
+    "battery": "6000mAh",
+    "camera": "200MP + 8MP + 2MP",
+    "os": "Android 16"
+  }
+]
