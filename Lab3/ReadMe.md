@@ -11,3 +11,10 @@
 - 401 -  Unauthorised
 - 403 - Forbidden
 - 404 - Not Found
+
+## Content Type:
+- text/html  -> For HTML live server
+- text/json  -> For JSON file type
+- text/plain -> For plain text file
+
+
