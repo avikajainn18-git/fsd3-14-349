@@ -24,7 +24,7 @@ export const getTeamById = (id) => teams.find((team) => team.id === id);
 export const addTeam = (newTeam) => {
   const team = { id: nextId++, ...newTeam };
   teams.push(team);
-  return team;
+  return team; 
 };
 
 export const updateTeamById = (id, updateTeam) => {
