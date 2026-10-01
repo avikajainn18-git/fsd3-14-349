@@ -25,3 +25,24 @@
 1. Simple JSX functions return HTML directly.
 2. It must start with capital letter.
 3. It should be treated as HTML tag and must be closed.
+# Object destructure
+It does not depend on order this property is not available then it is initialized with none.
+```
+const { rating, bname, price, qty, picUrl } = props.book;
+```
+
+Any component incluse styles:
+1. External CSS-> create class index.html and use in component.
+2. Internal CSS-> create property as object:
+```
+const qstyle={
+    fontSize:'1rem',
+    color:'blue',
+    textAlign: 'center',
+    backgroundColor: "lightgray',
+}
+
+```
+
+then apply with style attribute and pass the object.
+3. Inline CSS-> In this method, we use two curly bracket with style attribute. All the CSS property must be a single word, for example: text and align=>textAlign
